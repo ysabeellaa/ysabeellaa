@@ -1,5 +1,5 @@
 <h1 align="center">Hiiii 👋, I'm Ysabella</h1>
-<h3 align="center">Front End Engineer!</h3>
+<h3 align="center">Software Engineer!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
